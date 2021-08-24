@@ -1,0 +1,7 @@
+{
+  "name": "FaceGraph",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
