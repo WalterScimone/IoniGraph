@@ -4,4 +4,5 @@ const serviceAccount = require('..credentials.json'); // you need your own json 
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount)
+  //databaseURL: 'https://tobeadded.firebaseio.com',
 });
