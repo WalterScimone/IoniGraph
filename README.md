@@ -4,7 +4,7 @@
 
 ## Technologies Used
 <ul>
-<li><strong>TypeScript</strong></li>
+<li><strong>TypeScript (Ionic framework/Angular)</strong></li>
 <li><strong>JavaScript</strong></li>
 <li><strong>SCSS</strong></li>
 <li><strong>HTML</strong></li>
